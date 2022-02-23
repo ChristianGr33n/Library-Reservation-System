@@ -1,6 +1,10 @@
 Name: Christian Green
 Student#: 101200708
 
+Purpose: 
+    Program used to create and manage reservations made by students for library rooms.
+
+
 files:
     Student.cc      Student class that holds their information
     Student.h   
@@ -22,11 +26,4 @@ to compile any individual source files
 to remove all .o file and executable
     make clean
 
-Additional info:
-Bonuses for the following were completed
-    5.5.4 (addStudent ordering)
-    5.5.5 (addRoom ordering)
-    5.5.9 (makeReservation ordering)
-    5.5.10 (update function)
-    5.5.11 (printReservations function)
     
