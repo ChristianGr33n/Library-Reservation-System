@@ -22,7 +22,7 @@ Compilation (in command line):
 to compile everything into one executable
     make all
 to compile any individual source files
-    make <filename>
+    make <filename>.o
 to remove all .o file and executable
     make clean
 
